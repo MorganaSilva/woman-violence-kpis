@@ -47,7 +47,6 @@ Para garantir a confiabilidade das análises, realizei as seguintes etapas de ET
 ## Organização do Repositório
 ```text
 ├── data/
-│   ├── raw/      # Arquivos CSV originais (Dataset Tabnet)
 │   └── silver/   # Base consolidada em .parquet
 ├── notebooks.ipynb  # Análises exploratórias e visualizações
 └── README.md
