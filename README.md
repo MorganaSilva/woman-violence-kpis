@@ -26,7 +26,7 @@ O projeto foi estruturado seguindo os princípios da **Arquitetura de Medalhão*
 
 ---
 
-## Processamento de Dados
+##Processamento de Dados
 
 Para garantir a confiabilidade das análises, realizei as seguintes etapas de ETL:
 1.  **Normalização de Tipos:** Conversão de strings com encoding brasileiro e correção de idades (ajuste de separadores decimais `,` para `.`).
@@ -37,7 +37,7 @@ Para garantir a confiabilidade das análises, realizei as seguintes etapas de ET
 
 ---
 
-## Principais Insights Técnicos
+##Principais Insights Técnicos
 
 * **Análise de Sazonalidade e Tendência:** Identificação de picos cíclicos de notificações. A decomposição temporal sugere que períodos de maior convívio doméstico (como finais de ano e férias) apresentam variações no volume de registros, o que auxilia no planejamento de contingência em unidades de saúde.
 * **Distribuição da Natureza da Violência:** A análise revelou a predominância da violência física, mas também evidenciou a **subnotificação de violências psicológicas e sexuais**. Tecnicamente, isso demonstra a importância de treinar os agentes de saúde para identificar indicadores que não deixam marcas físicas aparentes.
