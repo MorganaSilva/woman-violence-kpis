@@ -51,6 +51,7 @@ Para garantir a confiabilidade das análises, realizei as seguintes etapas de ET
 │   └── silver/   # Base consolidada em .parquet
 ├── notebooks.ipynb  # Análises exploratórias e visualizações
 └── README.md
+```
 
 ---
 
